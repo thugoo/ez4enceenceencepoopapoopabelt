@@ -8,4 +8,4 @@ otsitav = perenimi.title() + ", " + eesnimi.title()
 algus = tekst.index(otsitav)
 temp_algus = algus + 53 + len(otsitav)  
 elo = tekst[temp_algus:temp_algus+4]       
-print(temp)
+print(elo)
