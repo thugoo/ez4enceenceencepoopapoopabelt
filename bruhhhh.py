@@ -1,1 +1,1 @@
-print("hello nigger")
+#vi sitter har in venten och spellar lidl dota
