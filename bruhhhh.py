@@ -1,1 +1,1 @@
-print("hello nigger")
+#see on Swaaaaaaz
