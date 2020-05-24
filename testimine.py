@@ -8,17 +8,5 @@ eesnimi = str(input("Sisestage malemängja eesnimi: ")).lower()
 perenimi = str(input("Sisestage malemängja perekonnanimi: ")).lower()
 
 otsitav = perenimi.title() + ", " + eesnimi.title()
-algus = tekst.index(otsitav)
 
-temp_algus = algus + 53 + len(otsitav)  
-elo = tekst[temp_algus:temp_algus+4]
-
-i = 9266
-rank = 0
-
-while i < algus:
-    i += 225
-    rank += 1
-    
-print(elo)
-print(rank)
+print(otsitav)
